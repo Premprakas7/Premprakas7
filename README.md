@@ -1,6 +1,6 @@
 <h1>Hi there 👋,I'm Prem Prakash</h1>
 
-<h3>I'm a  full stack web developer specialized in MERN stack, passionate about coding and learning new technologies.Adept at learning, unlearning, and relearning.As a developer, my hunger for learning has increased continuously.I want to learn more and do something meaningful with my learning.</h3>
+<h3>A full stack web developer specialized in MERN stack, passionate about coding and learning new technologies.Adept at learning, unlearning, and relearning.As a developer, my hunger for learning has increased continuously.I want to learn more and do something meaningful with my learning.</h3>
  
 
 
