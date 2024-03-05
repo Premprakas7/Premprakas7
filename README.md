@@ -5,7 +5,7 @@
    ![image](https://img.freepik.com/free-vector/programmer-hacker-bedroom-with-computer_107791-2872.jpg?size=626&ext=jpg&ga=GA1.2.1382233244.1650354116)
 - 🌱 I’m currently learning React
 - 💬 Ask me about React , JavaScript , Mongodb 
-- 🥅 2022 Goals : Learning new things and contribute more
+- 🥅 Goals : Learning new things and contribute more
 
 <br/>
 
